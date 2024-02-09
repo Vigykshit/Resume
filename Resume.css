@@ -84,9 +84,12 @@ ul{
     padding: 1%;
 
 }
-.intern{
-    font-size: 1.1rem;
+h5{
+    margin-top: -7px;
 }
+/* .intern{
+    font-size: 1.1rem;
+} */
 .bold{
     font-size: 1.5rem;
 }
