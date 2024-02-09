@@ -84,8 +84,15 @@ ul{
     padding: 1%;
 
 }
+.intern{
+    font-size: 1.1rem;
+}
+.bold{
+    font-size: 1.5rem;
+}
 u{
     font-size: 15.01px;
+    font-weight: 500;
 }
 .container{
    margin-left: 26%;
